@@ -4,7 +4,7 @@
   "description": "",
   "main": "server.js",
   "dependencies": {
-    "@material-ui/icons": "^2.0.3",
+    "@material-ui/icons": "^4.1.0",
     "codemirror": "^5.39.2",
     "express": "^4.15.4",
     "express-session": "^1.15.6",
